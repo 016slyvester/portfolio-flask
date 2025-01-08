@@ -6191,3 +6191,13 @@ textarea {
     float: left;
     margin-right: 5px
 }
+.background-image-container .form-control {
+    background: rgba(255, 255, 255, 0.9);
+}
+
+.background-image-container .address-container {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+}
